@@ -61,3 +61,5 @@ useEffect(() => {
 Der größte Vorteil von `async/await` gegenüber der Verwendung von `.then`-Ketten ist die Lesbarkeit. Mit `async/await` sieht asynchroner Code fast synchron aus, besteht nur aus wenigen Code-Zeilen und ist dadurch leichter zu lesen.
 Außerdem bietet `async/await` sehr gute Debugging-Möglichkeiten.
 # async_fetch
+
+made by hannahnier & luisePkt
